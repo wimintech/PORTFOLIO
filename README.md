@@ -3,9 +3,12 @@ Introducing my animated portfolio website, crafted with HTML, CSS, and JavaScrip
 
 # Working Model
 ![1](https://github.com/wimintech/PORTFOLIO/assets/99642867/20091a47-b8bd-4779-9500-ac57fd0b2008) 
-<-br>
+
 ![2](https://github.com/wimintech/PORTFOLIO/assets/99642867/b0192af4-a5b9-456b-8a88-07611ab58c20)
-<-br>
+
+![3](https://github.com/wimintech/PORTFOLIO/assets/99642867/4704233c-4642-4001-a2ba-69bfee714b75)
+
+
 
 
 
