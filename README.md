@@ -8,6 +8,8 @@ Introducing my animated portfolio website, crafted with HTML, CSS, and JavaScrip
 
 ![3](https://github.com/wimintech/PORTFOLIO/assets/99642867/4704233c-4642-4001-a2ba-69bfee714b75)
 
+![4](https://github.com/wimintech/PORTFOLIO/assets/99642867/30cdb9ae-29d0-4cee-a608-c6f0feada337)
+
 
 
 
